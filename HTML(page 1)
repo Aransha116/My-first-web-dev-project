@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PAGE 1</title>
+    <link rel="stylesheet" href="style/style.css">
+
+</head>
+
+
+<body>
+    <nav>
+       <a href="#">HOME</a>
+       <a href="#">Contact Us</a>
+       <a href="#">mental health</a>
+       <a href="#">physical health</a>
+       <a href="#">Login</a>
+       
+    </nav>
+    <main>
+        
+
+        <section>
+            <h2>
+            WHAT IS IT?
+        </h2>
+       
+        <iframe 
+        width="40%"  src="https://www.youtube.com/embed/NQcYZplTXnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+    
+        
+        <iframe width="40%"  src="https://www.youtube.com/embed/HUWy9V-of-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+    
+    <section>
+        <h3>
+        BETTER HELP
+    </h3>
+        <a target="_blank" href="Folder1/MH.pdf">
+            <img src="Folder1/mental-health-g951c7ff39_1280.png" alt="" width="40%" height="60%">
+
+
+        </a>
+        
+        <a target="_blank" href="Folder1/PH.pdf"> 
+            <img src="Folder1/work-out-gc4a2e5a02_1920.png" alt="" width="40%" height="60%">
+            
+        </a>
+    </section>
+
+        
+
+    </main>
+
+    
+</body>
+</html>
